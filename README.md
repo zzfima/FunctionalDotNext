@@ -1,0 +1,2 @@
+# FunctionalDotNext
+Func prog examples

@@ -44,4 +44,4 @@ INSERT INTO Book (Title, PublisherID, AuthorID)
 VALUES
 ('Nature', 1, 1),
 ('Animals', 1, 2),
-('Nature', 2, 2);
+('Birds', 2, 2);

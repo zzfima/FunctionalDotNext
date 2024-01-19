@@ -16,9 +16,9 @@ class Book
     public Author[] Authors { get; set; }
 }
 
-internal class Program
+internal class ProgramArrays
 {
-    private static void Main(string[] args)
+    private static void Main1(string[] args)
     {
         Author[] authors =
         [
